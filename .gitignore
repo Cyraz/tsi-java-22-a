@@ -1,2 +1,5 @@
 # ignore intellij idea cofig files
 .idea
+
+# ignore target
+/target
